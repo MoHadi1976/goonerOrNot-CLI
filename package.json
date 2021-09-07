@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MoHadi1976/movie-CLI.git"
+    "url": "git+https://github.com/MoHadi1976/goonerOrNot-CLI.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MoHadi1976/movie-CLI/issues"
+    "url": "https://github.com/MoHadi1976/goonerOrNot-CLI/issues"
   },
-  "homepage": "https://github.com/MoHadi1976/movie-CLI#readme"
+  "homepage": "https://github.com/MoHadi1976/goonerOrNot-CLI#readme"
 }
